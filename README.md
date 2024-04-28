@@ -2,6 +2,9 @@
 
 This project is a movie recommendation system that suggests movies to users based on their preferences. The system utilizes machine learning techniques to analyze movie data and provide personalized recommendations to users.
 
+![image](https://github.com/rajukumar61/Movie-Recommendation-System/assets/168325347/e6420f20-cfc4-43fe-af85-219248b4c8f2)
+
+
 ## File Structure
 
 - **frontend** : a Node.js library file used in building carousels in the frontend of this application
