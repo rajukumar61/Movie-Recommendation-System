@@ -2,7 +2,7 @@
 
 This project is a movie recommendation system that suggests movies to users based on their preferences. The system utilizes machine learning techniques to analyze movie data and provide personalized recommendations to users.
 
-File Structure
+**File Structure**
 
 - frontend : a Node.js library file used in building carousels in the frontend of this application
 - app3.py : a Python file containing frontend design codes and using the database files (.pkl)
